@@ -6,7 +6,7 @@ const introductionText = `
 // Welcome to OPAT.nl!
 // -------------------
 // Here's an editor you may use to quickly make a note or write a snippet.
-// To be honest, I personally mostly use it to strip text formattin 😅.
+// To be honest, I personally mostly use it to strip text formatting 😅.
 // Your latest note or snippet will be stored in local storage so no
 // worries if you accidentally close this tab. Except if you have multiple
 // tabs open, it's not _that_ smart. Enjoy :) 
